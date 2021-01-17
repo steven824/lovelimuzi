@@ -1,0 +1,213 @@
+body {
+  color:#66BFBF;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  margin: 10px auto;
+}
+
+
+
+  p{
+    line-height: 2;
+  }
+
+  hr {
+    border: dotted red 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+
+
+div {
+  background-color: #E4F9F5;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 50px 0;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 10px 0 20px;
+
+}
+
+.words-row {
+  width: 80%;
+  margin: 100px auto 100px auto;
+  padding: 100px 0 100px 0;
+  text-align: left;
+  line-height: 2;
+}
+
+
+
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 2rem;
+  padding: 20px 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right:200px;
+  top: 150px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 20px;
+  top: 30px;
+}
+
+.img1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.img2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img3{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img4{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img5{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img6{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img7{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img8{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img9{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img10{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img11{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img12{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img13{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img14{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img15{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.description3{
+  color: red;
+}
+
+
+.description1{
+  font-size: 2rem;
+}
+
+.description2{
+  color: #FF1493;
+  font-size: 1.2rem;
+}
+
+.decs{
+  color:#FFB6C1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.line{
+  margin-top: 200px;
+}
